@@ -1,0 +1,35 @@
+.sub-topic-pb {
+  .progress{
+    margin-top: 14px;
+  }
+  .icon-container {
+    cursor: pointer;
+  }
+  .sub-topic {
+    h5 {
+      font-size: 14px;
+      margin-top: 9px;
+    }
+    .ti-announcement {
+      padding-left: 5px;
+    }
+
+    float: right;
+    width: 100%;
+
+    .level {
+      margin-top: 11px;
+      width: fit-content;
+    }
+  }
+
+  .random {
+    width: 100%;
+    text-align: center;
+    font-size: 23px;
+  }
+}
+
+.circle-cards-custom {
+  cursor: pointer;
+}
